@@ -1,2 +1,2 @@
 # Basic3DShapes
-Project of Computer Graphics course - Term 1 (2019) - HCMUS
+Project of Computer Graphics course - 2019 - HCMUS
